@@ -107,6 +107,9 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 
 ![269279197-1f0f866c-d427-4e84-916b-7efe7ea7e2a2](https://github.com/VIKASHAR/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405655/e215b95e-cca1-476c-8ba1-48163cd6326e)
 
+![269279120-aa254c36-3140-462f-87b4-0bf12e8db9e0](https://github.com/VIKASHAR/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405655/dffe2379-ceda-4367-b899-186e732b6dd0)
+
+
 ![269279293-1d9052be-3a5a-4ce6-96d4-941314a7bbbe](https://github.com/VIKASHAR/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405655/30885704-7612-4b84-8570-0248d98422f7)
 
 
